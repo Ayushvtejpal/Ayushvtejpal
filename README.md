@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Ayushvtejpal
+### 👋 Hi, I’m @Ayushvtejpal
 - 👀 I’m interested in Python, AI, ML, Java,HTML, CSS, JS
 - 🌱 I’m currently learning Data Science And Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my instagram id: @_yashkapure_ 
